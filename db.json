@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J Rouling",
+      "category": "fantasy",
+      "isbn": 1242141242141
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter",
+      "author": "J Rouling",
+      "category": "fantasy",
+      "isbn": 1242141242141
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter",
+      "author": "J Rouling",
+      "category": "fantasy",
+      "isbn": 1242141242141
+    },
+    {
+      "title": "Harry Potter",
+      "author": "Me",
+      "category": "fantasy",
+      "isbn": "1242141242",
+      "id": 9912
+    }
+  ]
+}
